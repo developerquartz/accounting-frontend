@@ -1,1 +1,1 @@
-# accounting-frontend
+# accounting-app-frontend
